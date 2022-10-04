@@ -1,0 +1,9 @@
+.chat_drawer{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav__chat-drawer{
+    font-size: 40px;
+    color: black;
+}
